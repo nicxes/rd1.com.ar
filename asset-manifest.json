@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b80adbd7.css",
+    "main.js": "/static/js/main.5f27668f.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b80adbd7.css",
+    "static/js/main.5f27668f.js"
+  ]
+}
